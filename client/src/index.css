@@ -1,0 +1,18 @@
+.link{
+  text-decoration: none;
+}
+
+.btn-box{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-nav{
+  display: flex;
+}
+
+.nav-align{
+  display: flex;
+  align-items: center;
+}
